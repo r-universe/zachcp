@@ -3,6 +3,11 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "msaR"]
+	path = msaR
+	url = https://github.com/zachcp/msar
+	shallow = true
+	registered = true
 [submodule "phylocanvas"]
 	path = phylocanvas
 	url = https://github.com/zachcp/phylocanvas
