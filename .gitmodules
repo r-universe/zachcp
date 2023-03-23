@@ -13,3 +13,13 @@
 	url = https://github.com/zachcp/phylocanvas
 	shallow = true
 	registered = true
+[submodule "rcdk"]
+	path = rcdk
+	url = https://github.com/cran/rcdk
+	shallow = true
+	registered = true
+[submodule "rcdklibs"]
+	path = rcdklibs
+	url = https://github.com/cran/rcdklibs
+	shallow = true
+	registered = true
