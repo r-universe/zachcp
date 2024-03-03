@@ -13,4 +13,4 @@
 	url = https://github.com/cran/rcdk
 [submodule "rcdklibs"]
 	path = rcdklibs
-	url = https://github.com/cran/rcdklibs
+	url = https://github.com/zachcp/rcdklibs
