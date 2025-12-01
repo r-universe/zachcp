@@ -8,6 +8,3 @@
 [submodule "phylocanvas"]
 	path = phylocanvas
 	url = https://github.com/zachcp/phylocanvas
-[submodule "rcdk"]
-	path = rcdk
-	url = https://github.com/cran/rcdk
